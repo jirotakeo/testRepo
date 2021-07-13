@@ -1,6 +1,5 @@
+print('add commit')
+print('second commit')
+print('hooks')
 
 
-print('Test1')
-
-
-print('test2')
