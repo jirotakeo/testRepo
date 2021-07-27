@@ -5,3 +5,5 @@ print('Привет всем')
 push
 
 '''
+
+'push_pull'
