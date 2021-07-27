@@ -9,5 +9,4 @@ push
 'push_pull'
 
 'че нить добавил'
-'ppppkklk jkhgkfdh dd hffk' \
-''
+'ppppkklk jkhgkfdh dd hffk'
