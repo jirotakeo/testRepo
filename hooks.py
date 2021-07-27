@@ -4,3 +4,6 @@ print('Привет всем')
 '''
 dsadasdas
 '''
+
+
+'sdsdsds'
