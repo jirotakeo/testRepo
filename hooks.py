@@ -1,8 +1,8 @@
-print('еще один  pull')
-print('Привет всем')
+print('addsdaa')
+'''dadasdqweqweqew'''
 
-'''
-push
+'''  
+sdadasdqweqweqw
 
 '''
 
